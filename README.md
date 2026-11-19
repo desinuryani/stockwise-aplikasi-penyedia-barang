@@ -74,7 +74,7 @@ Tampilan Aplikasi
 ![Data Barang StockWise](screenshots/databarang.png)
 
 3. Analisis Stok
-![Analisis StockWise](screenshots/analisisBARANG.png)
+![Analisis StockWise](screenshots/analisisbarang.png)
 
 4. Rekomendasi Pengadaan
 ![Rekomendasi StockWise](screenshots/rekomendasi.png)
